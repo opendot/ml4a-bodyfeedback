@@ -15,6 +15,9 @@ The sonic system relies on a three dimensional map where different sounds are lo
 
 ## Training
 
+We trained two main regression models, one intended for kids with reduced mobility `Project_SpaceDependent_setup.wekproj` and one for kids able to do larger movements `Project_SpaceIndependent_setup.wekproj`.
+
+The inputs and outputs used in each model are summarised in the table below. The BPM input is used as feedback of the experience and is shared among the two models. This parameter affects the magnitude (weight) of the movement in the virtual space.
 <p align="center">
 <img width="600" src="https://github.com/opendot/ml4a-bodyfeedback/blob/master/assets/inputs_outputs.png"/>
 </p>
