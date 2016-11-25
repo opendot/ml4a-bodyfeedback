@@ -10,7 +10,7 @@ The sonic system relies on a three dimensional map where different sounds are lo
 ## Architecture
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/opendot/ml4a-bodyfeedback/blob/master/assets/diagram_bodyfeedback.png"/>
+<img src="https://raw.githubusercontent.com/opendot/ml4a-bodyfeedback/f5157c7a0184ef94a48c420e132a6b36b98056ac/assets/diagram_bodyfeedback.png"/>
 </p>
 
 ## Training
