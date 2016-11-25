@@ -4,7 +4,8 @@
 
 ## Architecture
 
-![Diagram](http://github.com/opendot/ml4a-bodyfeedback/raw/master/assets/diagram_bodyfeedback.png)
+![Diagram](https://raw.githubusercontent.com/opendot/ml4a-bodyfeedback/master/assets/diagram_bodyfeedback.png)
 
+More details coming soon...
 
 ## Team
